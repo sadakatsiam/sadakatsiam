@@ -5,13 +5,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sadakat+Siam!;" />
 </h1>
 
-<h3 align="center">I am Web Developer | Love to write code</h3> <br>
+<h3 align="center">I am Web Developer | Love to write code</h3>
 
 <div align="center">
 
-Skills: Next Js / Javascript / Tailwind CSS / BOOTSTRAP / REACT / HTML / CSS
+<h3>Skills: Next Js / Javascript / Tailwind CSS / BOOTSTRAP / REACT / HTML / CSS</h3>
 
-</div>
+</div> <br>
 
 - 🌱 I’m currently learning Frontend Development
 
